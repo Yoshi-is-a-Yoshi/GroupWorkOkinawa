@@ -11,7 +11,7 @@
 
 .p2
     {
-        position: absolute;
+        position: static;
         bottom: 0px;
         left: 0px;
     }
