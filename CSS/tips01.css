@@ -14,7 +14,8 @@
 .zunda
     {
         position: fixed;
-        width: 25%;
+        max-width: 25%;
+        height: auto;
         bottom: 0px;
         right: 200px;
     }
